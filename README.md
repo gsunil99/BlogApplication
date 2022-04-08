@@ -1,5 +1,5 @@
 # BlogApplication
-Created how to build great REST API’s for Blog App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database
+- Created how to build great REST API’s for Blog App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database
 Created REST basics - Resource, Sub-resource, URI, HTTP methods, HTTP status codes
 Created CRUD REST API's
 Created REST API’s for Pagination and Sorting , REST API’s for Login/Signin and Signup
