@@ -1,10 +1,7 @@
 ## BlogApplication [![GitHub stars](https://img.shields.io/github/stars/gsunil99/BlogApplication?style=social)](https://github.com/login?return_to=%2Fgsunil99%BlogApplication) ![GitHub forks](https://img.shields.io/github/forks/gsunil99/BlogApplication?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/gsunil99/BlogApplication) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/gsunil99/BlogApplication) 
 # BlogApplication
 A Blog-Application is a backend software or service used to manage and publish content on the internet in the form of a blog.
-
-In this application i have implemented all the backend REST API's services required for blog Application. 
-
-To know more about what i have implemented you can have look into below key points.
+In this application i have implemented all the backend REST API's services required for blog Application. To know more about what i have implemented you can have look into below key points.
 - Created how to build great REST API’s for Blog App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database
 - Created REST basics - Resource, Sub-resource, URI, HTTP methods, HTTP status codes
 - Created CRUD REST API's
